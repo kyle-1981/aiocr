@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://aiocr.oss-ap-northeast-1.aliyuncs.com/DigitalKYC.ipa</string>
+					<string>https://github.com/kyle-1981/aiocr/blob/main/DigitalKYC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://aiocr.oss-ap-northeast-1.aliyuncs.com/Icon@2x.png</string>
+					<string>https://github.com/kyle-1981/aiocr/blob/main/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://aiocr.oss-ap-northeast-1.aliyuncs.com/Icon.png</string>
+					<string>https://github.com/kyle-1981/aiocr/blob/main/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://aiocr.oss-ap-northeast-1.aliyuncs.com/DigitalKYC-410D749F-BF43-47DF-A041-9D4BF4630C6F.ipa</string>
+					<string>https://github.com/kyle-1981/aiocr/blob/main/DigitalKYC-410D749F-BF43-47DF-A041-9D4BF4630C6F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1585,7 +1585,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://aiocr.oss-ap-northeast-1.aliyuncs.com/DigitalKYC-2A231EF5-77E3-4FE6-966E-6CAE542526E2.ipa</string>
+					<string>https://github.com/kyle-1981/aiocr/blob/main/DigitalKYC-2A231EF5-77E3-4FE6-966E-6CAE542526E2.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
